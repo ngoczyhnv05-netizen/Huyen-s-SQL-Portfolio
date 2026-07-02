@@ -1,2 +1,32 @@
-# Huyen-s-SQL-Portfolio
-This is my SQL Portfolio
+# Hệ thống Quản lý Nhân sự - QLLUONG
+
+## Giới thiệu
+Hệ thống quản lý nhân sự, lương, bảo hiểm sử dụng SQL Server.
+
+## Công nghệ sử dụng
+- SQL Server
+- Stored Procedure
+- Cursor
+
+## Cấu trúc database
+- Departments: Phòng ban
+- Positions: Chức vụ
+- Employees: Nhân viên
+- Contracts: Hợp đồng
+- Attendance: Chấm công
+- Payroll: Bảng lương
+- Allowances: Phụ cấp
+- Bonuses: Thưởng
+- Deductions: Khấu trừ
+- Insurance: Bảo hiểm
+
+## Một số tập lệnh cơ bản
+Chạy lần lượt các file:
+1. 01_Create_Database.sql
+2. 02_Insert_Data.sql
+3. 03_Procedures.sql
+4. 04_Cursor.sql
+5. 05_Reports.sql
+
+## Tác giả
+Huyen
